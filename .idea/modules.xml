@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/SwitchCase/SwitchCase.iml" />
       <module fileurl="file://$PROJECT_DIR$/conditions_and_loops/conditions_and_loops.iml" filepath="$PROJECT_DIR$/conditions_and_loops/conditions_and_loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/first_program/first_program.iml" filepath="$PROJECT_DIR$/first_program/first_program.iml" />
