@@ -1,3 +1,5 @@
+package Bitwise;
+
 public class NoOfDigits {
     public static void main(String[] args) {
         int n = 8;

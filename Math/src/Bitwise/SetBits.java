@@ -1,3 +1,5 @@
+package Bitwise;
+
 public class SetBits {
     public static void main(String[] args) {
         int n =10056;

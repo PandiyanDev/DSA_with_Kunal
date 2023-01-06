@@ -1,3 +1,5 @@
+package Bitwise;
+
 public class RangeXOR {
     public static void main(String[] args) {
       // range xor for a, b = xor(b)^ xor(a-1)
