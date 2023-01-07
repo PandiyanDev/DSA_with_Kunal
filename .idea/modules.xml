@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/Assignments/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Assignments/Pattern/Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/SwitchCase/SwitchCase.iml" />
       <module fileurl="file://$PROJECT_DIR$/conditions_and_loops/conditions_and_loops.iml" filepath="$PROJECT_DIR$/conditions_and_loops/conditions_and_loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/first_program/first_program.iml" filepath="$PROJECT_DIR$/first_program/first_program.iml" />
