@@ -1,3 +1,5 @@
+package ConditionLoops;
+
 import java.util.*;
 public class LCMandHCF {
     public static void main(String args[]) {

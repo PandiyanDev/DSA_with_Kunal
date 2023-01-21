@@ -1,3 +1,5 @@
+package ConditionLoops;
+
 import java.util.Scanner;
 
 public class AverageNnum {
@@ -5,7 +7,7 @@ public class AverageNnum {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.print("Enter the number of integers: ");
+        System.out.print("Enter the number of integers going to be entered: ");
         int n = in.nextInt();
         int sum = 0;
         for (int i = 0; i < n; i++) {

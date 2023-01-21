@@ -1,3 +1,5 @@
+package ConditionLoops;
+
 import java.util.Scanner;
 
 public class nCr_nPr {

@@ -1,3 +1,5 @@
+package ConditionLoops;
+
 import java.util.Scanner;
 // intermediate level
 // 2. calculate electricity bill.

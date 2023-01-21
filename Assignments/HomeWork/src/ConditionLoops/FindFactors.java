@@ -1,3 +1,5 @@
+package ConditionLoops;
+
 import java.util.Scanner;
 // 23. Input a number and print all the factors of that number (use loops).
 

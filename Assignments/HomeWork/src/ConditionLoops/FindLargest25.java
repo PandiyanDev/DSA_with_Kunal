@@ -1,3 +1,5 @@
+package ConditionLoops;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 //  25: Take integer inputs till the user enters 0 and print the largest number from all.
